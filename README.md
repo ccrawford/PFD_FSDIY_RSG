@@ -11,3 +11,5 @@ Modify the CommandMapping.ini to change the commands associated with the buttons
 You can test your hardware with the RSG interface, or just open up a serial terminal (PuTTY or the VS Code serial monitor both work well) and run through all the controls.
 
 The current code supports repeating move on the pan/range joystick. It does not support long-press of the CLR button. I'll add that.
+
+ This code written in VS Code using PlatformIO. There's a Claude.md that explains the code, however Claude was not used to create/modify this code base. It's pretty simple. 
