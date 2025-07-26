@@ -3,10 +3,12 @@ Code for the Arduino Mega to make it a work-alike of an old RSG PFD/MFD display,
 
 Here's a link to the hardware: https://flightsimdiy.com/product/fsd-g1000-nxi/
 
-You'll want to install the RSG binary from here: https://help.realsimgear.com/en/articles/7971505-downloads-for-microsoft-flight-simulator-2020-and-2024
+You'll need to install the RSG binary from here: https://help.realsimgear.com/en/articles/7971505-downloads-for-microsoft-flight-simulator-2020-and-2024
 (Or go to the realsimgear site and search for the current downloads).
 
-Modify the CommandMapping.ini to change the commands associated with the buttons if you'd like. Works without any modifications.
+NOTE THIS IS NOT AN OFFICIAL RealSimGear BINARY. DO NOT USE IT WITH RSG HARDWARE--YOUR RSG HARDWARE WILL NOT WORK WITH IT. DO NOT CONTACT RSG FOR SUPPORT WITH THIS CODE.
+
+You can mdify the CommandMapping.ini to change the commands associated with the buttons if you'd like. Works without any modifications.
 
 You can test your hardware with the RSG interface, or just open up a serial terminal (PuTTY or the VS Code serial monitor both work well) and run through all the controls.
 
